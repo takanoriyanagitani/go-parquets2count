@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/parquets2count/parquets2count
+cmd/parquets2count/parquets2count.wasm
